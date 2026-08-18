@@ -170,6 +170,3 @@ Six tables: `ingestion_batches`, `internal_transactions`,
 - No REST API — CLI only. A thin HTTP layer over the same repository
   classes would be a natural extension.
 
-## License
-
-MIT — see `LICENSE`.
